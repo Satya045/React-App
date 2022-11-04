@@ -1,0 +1,53 @@
+{
+  "workouts": [
+    {
+      "id": 1,
+      "name": "Swimming",
+      "cbpm": 543433,
+      "Discription": "100",
+      "startTime": "2022-11-04T07:15:03.937Z",
+      "EndTime": "2022-11-04T07:37:04.680Z",
+      "endTime": "2022-11-04T09:48:39.910Z",
+      "TotalCalories": 83471064.25515
+    },
+    {
+      "id": 2,
+      "name": "Running",
+      "cbpm": 5434,
+      "Discription": "120",
+      "startTime": "2022-11-04T06:44:56.497Z",
+      "endTime": "2022-11-04T09:47:40.125Z",
+      "TotalCalories": 992939.2425333334
+    },
+    {
+      "id": 3,
+      "name": "T.T",
+      "cbpm": 54,
+      "Discription": "30",
+      "startTime": "2022-11-04T06:44:56.497Z",
+      "EndTime": "2022-11-04T07:38:04.320Z",
+      "endTime": "2022-11-04T09:47:44.809Z",
+      "TotalCalories": 9871.4808
+    },
+    {
+      "id": 4,
+      "name": "Pushup",
+      "cbpm": 434,
+      "Discription": "50",
+      "startTime": "2022-11-04T06:44:56.497Z",
+      "EndTime": "2022-11-04T07:37:54.155Z",
+      "endTime": "2022-11-04T09:47:50.260Z",
+      "TotalCalories": 79376.8857
+    },
+    {
+      "name": "Cricket",
+      "cbpm": 434545,
+      "id": 5,
+      "Discription": "200",
+      "startTime": "2022-11-04T06:44:56.497Z",
+      "EndTime": "2022-11-04T07:36:35.756Z",
+      "endTime": "2022-11-04T09:47:53.421Z",
+      "TotalCalories": 79499457.32633333
+    }
+  ]
+}
